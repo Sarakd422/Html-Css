@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Control</title>
+</head>
+<body bgcolor='lightgreen'>
+
+<h1>Buttons</h1>
+<table> 
+<td></td>
+<td><button type="button" style=background-color:lightblue;>Forwards</button></td>
+<tr><td>
+ <button type="button" style=background-color:lightblue;>Left</button></td>
+ <td><button type="button"  style=background-color:red;>Stop</button></td>
+<td>
+ <button type="button" style=background-color:lightblue;>Right</button></td></tr>
+<tr> <td></td>
+<td> <button type="button" style=background-color:lightblue;>Backwards</button></td>
+</table>
+</body>
+</html>
